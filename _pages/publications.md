@@ -1,10 +1,22 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: ""
 author_profile: true
 ---
 
 # Conference Publications
+
+## 26. Disentangled Embedding Optimization for Diffusion-Based Dataset Distillation
+
+Published in ACM International Conference on Multimedia (**ACM MM**), **CCF-A**, 2026
+
+Hongcheng Li, **Yucan Zhou**\*, Yibin Wang, Xiaoyan Gu, Bo Li, Weiping Wang
+
+## 25. Bridging the Knowledge Gap in Federated Prompt Learning via Text-Guided Feature Augmentation
+
+Published in ACM International Conference on Multimedia (**ACM MM**), **CCF-A**, 2026
+
+Yibin Wang, **Yucan Zhou**\*, Hongcheng Li, Zenghao Guan, Xiaoyan Gu, Weiping Wang
 
 ## 24. Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation
 
@@ -22,31 +34,31 @@ Zenghao Guan, **Yucan Zhou**, Wu Liu, Xiaoyan Gu
 
 Published in IEEE/CVF International Conference on Computer Vision (**ICCV**), **CCF-A**, 2025
 
-Hongcheng Li, **Yucan Zhou* **, Xiaoyan Gu, Bo Li, Weiping Wang
+Hongcheng Li, **Yucan Zhou**\*, Xiaoyan Gu, Bo Li, Weiping Wang
 
 ## 21. Diverse and Public Features Cooperation via Gradient Rectification for Federated Prompt Learning
 
 Published in ACM International Conference on Multimedia (**ACM MM**), **CCF-A**, 2025
 
-Qi Li, **Yucan Zhou* **, Jiang Zhou, Xingyou Yang, Xiaoyan Gu
+Qi Li, **Yucan Zhou**\*, Jiang Zhou, Xingyou Yang, Xiaoyan Gu
 
 ## 20. Capture Global Feature Statistics for One-Shot Federated Learning
 
 Published in The 39th Annual AAAI Conference on Artificial Intelligence (**AAAI**), **CCF-A**, 2025
 
-Zenghao Guan, **Yucan Zhou**, Xiaoyan Gu
+Zenghao Guan, **Yucan Zhou**\*, Xiaoyan Gu
 
 ## 19. Take What I Need: Active Data Distillation for Federated Learning
 
 Published in IEEE International Conference on Multimedia and Expo (**ICME**), 2025
 
-Hongcheng Li, **Yucan Zhou**, Yibin Wang, Xiaoyan Gu, Bo Li, Weiping Wang
+Hongcheng Li, **Yucan Zhou**\*, Yibin Wang, Xiaoyan Gu, Bo Li, Weiping Wang
 
 ## 18. FLR: Feature-based Label Recovery in Federated Learning with Classifier-free Communication
 
 Published in IEEE International Conference on Multimedia and Expo (**ICME**), 2025
 
-Yibin Wang, **Yucan Zhou**, Xiaoyan Gu, Weiping Wang
+Yibin Wang, **Yucan Zhou**\*, Xiaoyan Gu, Weiping Wang
 
 ## 17. Teach Structure Features to Cooperate with Node Embeddings in Link Prediction
 
@@ -58,55 +70,55 @@ Ziwei Li, Feifei Dai, **Yucan Zhou**, Haihui Fan, Xiaoyan Gu, Dan Meng
 
 Published in ACM International Conference on Multimedia (**ACM MM**), **CCF-A**, 2024
 
-Hongcheng Li, **Yucan Zhou**, Xiaoyan Gu, Bo Li, Weiping Wang
+Hongcheng Li, **Yucan Zhou**\*, Xiaoyan Gu, Bo Li, Weiping Wang
 
 ## 15. Meta-Knowledge Enhanced Data Augmentation for Federated Person Re-Identification
 
 Published in IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 
-Chunli Song, Xiaohua Chen, Wenqiu Zhu, **Yucan Zhou**, Xiaoyan Gu, Bo Li
+Chunli Song, Xiaohua Chen, Wenqiu Zhu, **Yucan Zhou**\*, Xiaoyan Gu, Bo Li
 
 ## 14. GIE: Gradient Inversion with Embeddings
 
 Published in IEEE International Conference on Multimedia and Expo (**ICME**), 2024
 
-Zenghao Guan, **Yucan Zhou**, Xiaoyan Gu, Bo Li
+Zenghao Guan, **Yucan Zhou**\*, Xiaoyan Gu, Bo Li
 
 ## 13. Tackling Feature Skew in Heterogeneous Federated Learning with Semantic Enhancement
 
 Published in IEEE International Conference on Multimedia and Expo (**ICME**), 2024
 
-Qi Li, **Yucan Zhou**, Jiang Zhou, Xiaoyan Gu, Bo Li
+Qi Li, **Yucan Zhou**\*, Jiang Zhou, Xiaoyan Gu, Bo Li
 
 ## 12. Noise-Aware Person Re-identification via Local Uncertainty Estimation
 
 Published in International Joint Conference on Neural Networks (**IJCNN**), 2024
 
-Chunli Song, **Yucan Zhou**, Wenqiu Zhu, Jiang Zhou, Xiaoyan Gu, Bo Li
+Chunli Song, **Yucan Zhou**\*, Wenqiu Zhu, Jiang Zhou, Xiaoyan Gu, Bo Li
 
 ## 11. AREA: Adaptive Reweighting via Effective Area for Long-Tailed Classification
 
 Published in IEEE/CVF International Conference on Computer Vision (**ICCV**), **CCF-A**, 2023
 
-Xiaohua Chen, **Yucan Zhou**, Dayan Wu, Chule Yang, Bo Li, Qinghua Hu, Weiping Wang
+Xiaohua Chen, **Yucan Zhou**\*, Dayan Wu, Chule Yang, Bo Li, Qinghua Hu, Weiping Wang
 
 ## 10. Preserving Potential Neighbors for Low-Degree Nodes via Reweighting in Link Prediction
 
 Published in International Conference on Neural Information Processing (**ICONIP**), 2023
 
-Ziwei Li, **Yucan Zhou**, Haihui Fan, Xiaoyan Gu, Bo Li, Dan Meng
+Ziwei Li, **Yucan Zhou**\*, Haihui Fan, Xiaoyan Gu, Bo Li, Dan Meng
 
 ## 9. Decoupled Contrastive Learning for Long-Tailed Distribution
 
 Published in Chinese Conference on Pattern Recognition and Computer Vision (**PRCV**), 2023
 
-Xiaohua Chen, **Yucan Zhou**, Lin Wang, Dayan Wu, Wanqian Zhang, Bo Li, Weiping Wang
+Xiaohua Chen, **Yucan Zhou**\*, Lin Wang, Dayan Wu, Wanqian Zhang, Bo Li, Weiping Wang
 
 ## 8. Imagine by Reasoning: A Reasoning-Based Implicit Semantic Data Augmentation for Long-Tailed Classification
 
 Published in The 36th AAAI Conference on Artificial Intelligence (**AAAI**), **CCF-A**, 2022
 
-Xiaohua Chen, **Yucan Zhou**, Dayan Wu, Wanqian Zhang, Yu Zhou, Bo Li, Weiping Wang
+Xiaohua Chen, **Yucan Zhou**\*, Dayan Wu, Wanqian Zhang, Yu Zhou, Bo Li, Weiping Wang
 
 ## 7. Rescuing Deep Hashing from Dead Bits Problem
 
@@ -118,25 +130,25 @@ Shu Zhao, Dayan Wu, **Yucan Zhou**, Bo Li, Weiping Wang
 
 Published in ACM International Conference on Multimedia Retrieval (**ICMR**), 2021
 
-Xiaoshuai Hao, **Yucan Zhou**, Dayan Wu, Wanqian Zhang, Bo Li, Weiping Wang
+Xiaoshuai Hao, **Yucan Zhou**\*, Dayan Wu, Wanqian Zhang, Bo Li, Weiping Wang
 
 ## 5. What Matters: Attentive and Relational Feature Aggregation Network for Video-Text Retrieval
 
 Published in IEEE International Conference on Multimedia and Expo (**ICME**), 2021
 
-Xiaoshuai Hao, **Yucan Zhou**, Dayan Wu, Wanqian Zhang, Bo Li, Weiping Wang, Dan Meng
+Xiaoshuai Hao, **Yucan Zhou**\*, Dayan Wu, Wanqian Zhang, Bo Li, Weiping Wang, Dan Meng
 
 ## 4. Disturbance Consistent Self-Ensembling for Semi-Supervised Hashing
 
 Published in IEEE International Conference on Multimedia and Expo (**ICME**), 2021
 
-Shuai Cheng, **Yucan Zhou**, Dayan Wu, Haisu Zhang, Bo Li, Weiping Wang
+Shuai Cheng, **Yucan Zhou**\*, Dayan Wu, Haisu Zhang, Bo Li, Weiping Wang
 
 ## 3. MMF: Multi-task Multi-structure Fusion for Hierarchical Image Classification
 
 Published in International Conference on Artificial Neural Networks (**ICANN**), 2021
 
-Xiaoni Li, **Yucan Zhou**, Yu Zhou, Weiping Wang
+Xiaoni Li, **Yucan Zhou**\*, Yu Zhou, Weiping Wang
 
 ## 2. SEED: Semantics Enhanced Encoder-Decoder Framework for Scene Text Recognition
 
@@ -158,7 +170,7 @@ Yu Wang, Qinghua Hu, **Yucan Zhou**, Hong Zhao, Yuhua Qian, Jiye Liang
 
 Published in **Knowledge-Based Systems**, 2026
 
-Qi Li, **Yucan Zhou**, Hong Zhao, Jiang Zhou, Xiaoyan Gu
+Qi Li, **Yucan Zhou**\*, Hong Zhao, Jiang Zhou, Xiaoyan Gu
 
 ## 11. LaAeb: A Comprehensive Log-Text Analysis Based Approach for Insider Threat Detection
 
@@ -170,25 +182,25 @@ Kexiong Fei, Jiang Zhou, **Yucan Zhou**, Xiaoyan Gu, Haihui Fan, Bo Li, Weiping 
 
 Published in **Neural Networks**, 2025
 
-Xiaohua Chen, **Yucan Zhou**, Hongcheng Li, Haihui Fan, Qinghang Su, Weiping Wang
+Xiaohua Chen, **Yucan Zhou**\*, Hongcheng Li, Haihui Fan, Qinghang Su, Weiping Wang
 
 ## 9. Deep Collaborative Multi-Task Network: A Human Decision Process Inspired Model for Hierarchical Image Classification
 
 Published in **Pattern Recognition**, 2022
 
-Yu Zhou, Xiaoni Li, **Yucan Zhou**, Yu Wang, Qinghua Hu, Weiping Wang
+Yu Zhou, Xiaoni Li, **Yucan Zhou**\*, Yu Wang, Qinghua Hu, Weiping Wang
 
 ## 8. Uncertainty-Aware and Multigranularity Consistent Constrained Model for Semi-Supervised Hashing
 
 Published in **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)**, 2022
 
-Shuai Cheng, **Yucan Zhou**, Wanqian Zhang, Dayan Wu, Chule Yang, Bo Li, Weiping Wang
+Shuai Cheng, **Yucan Zhou**\*, Wanqian Zhang, Dayan Wu, Chule Yang, Bo Li, Weiping Wang
 
 ## 7. Hierarchical Semantic Risk Minimization for Large-Scale Classification
 
 Published in **IEEE Transactions on Cybernetics (TCYB)**, 2022
 
-Yu Wang, Zhou Wang, Qinghua Hu, **Yucan Zhou**, Honglei Su
+Yu Wang, Zhou Wang, Qinghua Hu\*, **Yucan Zhou**\*, Honglei Su
 
 ## 6. Exploring Relations in Untrimmed Videos for Self-Supervised Learning
 
@@ -200,7 +212,7 @@ Dezhao Luo, Yu Zhou, Bo Fang, **Yucan Zhou**, Dayan Wu, Weiping Wang
 
 Published in **Information Sciences**, 2021
 
-Xinxin Liu, **Yucan Zhou**, Hong Zhao
+Xinxin Liu\†, **Yucan Zhou**\†, Hong Zhao
 
 ## 4. Deep Super-Class Learning for Long-Tail Distributed Image Classification
 
