@@ -1,3 +1,9 @@
+---
+permalink: /publications/
+title: "Publications"
+author_profile: true
+---
+
 # Conference Publications
 
 ## 24. Enhancing Federated Class-Incremental Learning via Spatial-Temporal Statistics Aggregation
